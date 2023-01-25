@@ -28,12 +28,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "ba78a739-2eed-40dc-acf5-77155fa21d8a"
-      }
-    },
-    "owner": "pedroelton"
+    }
   }
 }
